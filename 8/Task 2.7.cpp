@@ -1,4 +1,4 @@
-//Завдання 2.7
+//Р—Р°РІРґР°РЅРЅСЏ 2.7
 #include <iostream>
 #include <math.h>
 
