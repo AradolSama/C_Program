@@ -1,4 +1,4 @@
-//Задача 2.6
+//Р—Р°РґР°С‡Р° 2.6
 #include <iostream>
 
 using namespace std;
